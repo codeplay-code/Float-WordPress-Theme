@@ -1,0 +1,1 @@
+You can find the documentation in the archive you downloaded from ThemeForest.

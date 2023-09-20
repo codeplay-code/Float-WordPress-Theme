@@ -1,0 +1,125 @@
+2.3.0 (August 8th, 2022)
+
+- Float Plugin was updated to 1.3.0. Please update the plugin.
+- Fixed a small bug which caused an error on certain PHP versions.
+- Accessibility improvements.
+
+2.2.0 (May 16th, 2022)
+
+- Float Plugin was updated to 1.2.0. Please update the plugin.
+- Added Customizer option to show related posts on single posts.
+- Added 'wp_body_open' action after the opening body tag.
+- Improved the lazy loading of images.
+- Fixed a small bug in styling for embedded videos.
+- Replaced jQuery plugins with vanilla JavaScript for better performance and accessibility.
+- Improvements for Core Web Vitals.
+- Performance improvements.
+- Accessibility improvements.
+- Minor code fixes.
+
+2.1.1 (February 4th, 2021)
+
+- Fixed a bug adding too much top margin for embedded videos.
+- Fixed styling for the separator block.
+- Fixed styling for the text contrast on the sidebar.
+
+2.1.0 (August 25th, 2020)
+
+- Float Plugin was updated to 1.1.0. Please update the plugin.
+- Added support for wide width and full width blocks for Gutenberg editor.
+- Added editor styling for the Gutenberg editor.
+- Added option to use light background colors.
+- Added column for featured images in the dashboard's post listing.
+- Fixed a bug which made the comments disappear on WordPress 5.5.
+
+2.0.0 (May 20th, 2019)
+
+- Lots of changes to the codebase. Better code formatting, better security, speed optimizations etc.
+- Added Float Plugin. You must install and activate the Float Plugin which comes with the theme.
+- Moved plugin territory functionality from the theme to the plugin.
+- Moved style related options to the Customizer. Please check your settings at Appearance > Customize.
+- Added more options to widgets. Now you can for example sort the posts with comment count, and have content before the social icons.
+- Added lazyloading for images.
+- Added higher pixel density images. You must use the 'Force Regenerate Thumbnails' plugin to regenerate your thumbnails.
+- Added category and tag descriptions on the archive template.
+- Added author template.
+- Added social links options for users.
+- Added option to halve logo dimensions to allow using a high pixel density logo.
+- Added option to choose color for the separator used in the main navigation and post meta.
+- Icons are now served as SVGs.
+- Removed contact page template and added styling for the Contact Form 7 plugin. Use the Contact Form 7 plugin to add forms.
+- Removed the setting to select the background image from predefined options. Use the Background Image setting at the Customizer to set the background.
+- Minor styling changes.
+- Updated JavaScript libraries.
+- Minor code fixes.
+
+1.2.0 (March 15th, 2014)
+
+- Refreshed design
+- Updated jQuery and JavaScript plugins
+- Updated Theme Options Framework
+- More font options
+- More styling options
+- Numeric pagination
+- New page navigation in articles
+- Latest Posts Widget now displays comments count
+- Option to disable featured image display at the beginning of the posts
+- Added VK icon for Social Widget
+- CSS improvements
+- Page speed optimization
+- New screenshot
+- Updated documentation
+
+1.1.2 (June 4th, 2013)
+
+- Fixed minor issue in comments.php
+- Loosened validation of textareas in the Theme Options
+- Comments bubble not shown anymore if comments are closed
+
+1.1.1 (April 24th, 2013)
+
+- Option to choose between serif and sans serif fonts
+- Option to display author name in post meta
+- Link to edit a post added in the frontend
+- New icon: Goodreads
+
+1.1.0 (January 31st, 2013)
+
+- Updated Theme Options framework
+- Updated Social Media Widget icons
+- Option to display icons in color
+- Option to use custom CSS
+- Option to use Feedburner URL for RSS
+- Option to select secondary background image
+- 2 new background images
+- Updated jQuery plugins
+- Updated jQuery framework
+- Minor fixes and tweaks to the code
+
+1.0.4 (November 12th, 2012)
+
+- New icons: LinkedIn, Vimeo, Instagram, iTunes, Soundcloud, Last.fm, Bandcamp, Quora
+- Fixed the centering of images
+
+1.0.3 (July 30th, 2012)
+
+- Translation ready
+- Support for multi-level dropdowns
+- Option to display posts in archives like on homepage
+- Featured image now links to the post
+- Fix for analytics in Theme Options
+- YouTube icon
+
+1.0.2 (July 15th, 2012)
+
+- Shorter refresh time for Twitter widget (was 12h, now 30min)
+- Option to choose whether to display tags of posts on the homepage
+
+1.0.1 (July 13th, 2012)
+
+- Contact page validation fixed
+- Tumblr and Pinterest icons
+
+1.0.0 (July 12th, 2012)
+
+- Initial release

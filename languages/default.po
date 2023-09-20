@@ -1,0 +1,844 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Float WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-16 08:34+0300\n"
+"PO-Revision-Date: 2022-05-16 09:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: myTheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_x\n"
+"X-Poedit-Basepath: ../../../..\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: wordpress-themes/themeforest/float/languages\n"
+"X-Poedit-SearchPath-1: wordpress-themes/themeforest/float\n"
+"X-Poedit-SearchPath-2: wordpress-plugins/themeforest/float-plugin\n"
+"X-Poedit-SearchPathExcluded-0: wordpress-themes/themeforest/float/.git\n"
+"X-Poedit-SearchPathExcluded-1: wordpress-themes/themeforest/float/"
+"node_modules\n"
+"X-Poedit-SearchPathExcluded-2: wordpress-themes/themeforest/float/src\n"
+"X-Poedit-SearchPathExcluded-3: wordpress-plugins/themeforest/float-plugin/."
+"git\n"
+
+#: wordpress-plugins/themeforest/float-plugin/inc/admin-functions.php:37
+msgid "Featured Image"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:18
+msgid "Post Meta"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:27
+msgid "Don't show the featured image at the beginning of the post."
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:41
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:48
+msgid "Social Links"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:55
+msgid "Facebook URL"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:61
+msgid "Instagram URL"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:67
+msgid "Pinterest URL"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-meta-boxes.php:73
+msgid "Twitter URL"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-plugin-options.php:18
+msgid "Float Options"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-plugin-options.php:24
+msgid "Analytics"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/cmb2-plugin-options.php:25
+msgid ""
+"Optional tracking code for the analytics services, for example Google "
+"Analytics."
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-flickr-widget.php:19
+msgid "Display images from Flickr."
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-flickr-widget.php:22
+msgid "Float: Flickr Feed"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-flickr-widget.php:33
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-flickr-widget.php:82
+msgid "Flickr Feed"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-flickr-widget.php:90
+msgid "Title"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-flickr-widget.php:95
+msgid "Flickr ID"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-flickr-widget.php:100
+msgid "Number (max. 10)"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:19
+msgid "Display posts with thumbnails."
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:23
+msgid "Float: Posts with thumbnails"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:34
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:102
+msgid "Latest Posts"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:111
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-postit-widget.php:88
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-social-widget.php:100
+msgid "Title:"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:116
+msgid "Order by:"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:118
+msgid "Date"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:119
+msgid "Comment count"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:124
+msgid "Order:"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:126
+msgid "Ascending"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:127
+msgid "Descending"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-latest-widget.php:132
+msgid "Number of posts to show:"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-postit-widget.php:19
+msgid "Display content in a Post-it note."
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-postit-widget.php:23
+msgid "Float: Post-it Note"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-postit-widget.php:34
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-postit-widget.php:80
+msgid "Custom Post-it Widget"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-postit-widget.php:93
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-social-widget.php:105
+msgid "Content"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-postit-widget.php:98
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-social-widget.php:19
+msgid "Display links to popular services like Facebook and Twitter."
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-social-widget.php:23
+msgid "Float: Social Links"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-social-widget.php:34
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-social-widget.php:90
+msgid "Follow Me"
+msgstr ""
+
+#: wordpress-plugins/themeforest/float-plugin/inc/widgets/class-social-widget.php:111
+msgid "Menu:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/404.php:13
+msgid "Not Found"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/404.php:16
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/author.php:22
+#: wordpress-themes/themeforest/float/functions/list-comments.php:30
+msgid "Author"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/author.php:39
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:18
+msgid "No Comments"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:18
+msgid "One Comment"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:18
+msgid "% Comments"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:28
+msgid "Older Comments"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:29
+msgid "Newer Comments"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:44
+msgid "Name"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:44
+#: wordpress-themes/themeforest/float/comments.php:46
+msgid "required"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:46
+msgid "Email"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:48
+msgid "Website"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:51
+msgid "Comment"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:53
+msgid "Logged in as"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:53
+msgid "Log out?"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:57
+msgid "Leave a Reply"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:60
+msgid "Cancel reply"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/comments.php:61
+msgid "Submit"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:23
+msgid "Logo is high pixel density. Display the logo width and height halved."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:32
+msgid "Float"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:50
+msgid "Choose the theme"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:51
+msgid ""
+"Are you using a light or dark background? This setting affects text colors "
+"used on the navigation, sidebar etc."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:56
+msgid "Light"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:57
+msgid "Dark"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:69
+msgid "Sidebar position"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:74
+msgid "Left"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:75
+msgid "Right"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:87
+msgid "Post background"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:88
+msgid ""
+"Choose the background pattern used around the post, and on the top of the "
+"page."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:93
+#: wordpress-themes/themeforest/float/functions/customizer.php:115
+msgid "None"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:109
+msgid "Line style"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:110
+msgid "Choose the style for the line used in the meta data and author bio."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:131
+msgid "Display author bio"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:132
+msgid "Display author bio in posts. Set bio in Users > Your Profile."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:146
+msgid "Display author name in post meta"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:147
+msgid "Display author name below the post title, in the post meta."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:161
+msgid "How to display posts in archives"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:162
+msgid "Display posts in archives like on the homepage."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:176
+msgid "Show tags on homepage"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:177
+msgid "Show the tags of the posts also on the homepage."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:191
+msgid "Number of related posts"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:192
+msgid "Selected number of related posts will be displayed below the post."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:214
+msgid "Related posts title"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:234
+msgid "Header Font"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:249
+msgid "Body Font"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:260
+msgid "Link color"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:267
+msgid "Tags color"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:274
+msgid "Comments bubble color"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:281
+msgid "Menu and meta separator color"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/customizer.php:316
+msgid "Display social icons in color"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/list-comments.php:34
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/list-comments.php:40
+msgid "Reply"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/list-comments.php:48
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/list-comments.php:57
+msgid "Pingback:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/list-comments.php:57
+msgid "(Edit)"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/misc.php:45
+msgid "Choose page"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:66
+msgid "Primary Navigation"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:117
+msgid "Daily Archives"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:119
+#: wordpress-themes/themeforest/float/page-archive.php:20
+msgid "Monthly Archives"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:121
+msgid "Yearly Archives"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:123
+msgid "Tag Archives"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:125
+msgid "Archives"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:137
+msgid "Sidebar"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/functions/theme-setup.php:139
+msgid "The widget area in the sidebar"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/header.php:31
+msgid "Menu"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:393
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:923
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2647
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3696
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:394
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:1030
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:1033
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:1033
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2387
+msgid "Required"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2390
+msgid "Recommended"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2406
+msgid "WordPress Repository"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2409
+msgid "External Source"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2412
+msgid "Pre-Packaged"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2429
+msgid "Not Installed"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2433
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2435
+msgid "Active"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2441
+msgid "Required Update not Available"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2444
+msgid "Requires Update"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2447
+msgid "Update recommended"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2456
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2596
+msgid "unknown"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2604
+msgid "Installed version:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2612
+msgid "Minimum required version:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2624
+msgid "Available version:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2647
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2661
+msgid "Plugin"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2662
+msgid "Source"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2663
+msgid "Type"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2667
+msgid "Version"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2668
+msgid "Status"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2717
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2722
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2728
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2800
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2833
+msgid "Install"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2839
+msgid "Update"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2842
+msgid "Activate"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2873
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2875
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2916
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:2918
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3024
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3050
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3614
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3617
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3619
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3623
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3625
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3625
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3633
+msgid "Show Details"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3625
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3633
+msgid "Hide Details"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3626
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3628
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3631
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3633
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3634
+msgid "All installations have been completed."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/lib/class-tgm-plugin-activation.php:3636
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/page-archive.php:60
+msgid "Last 10 Posts"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/page-archive.php:72
+msgid "Categories"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/page-archive.php:78
+msgid "Tags"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/page.php:21
+#: wordpress-themes/themeforest/float/single.php:41
+msgid "Pages:"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/search.php:14
+msgid "Search Results"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/search.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/search.php:26
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: wordpress-themes/themeforest/float/searchform.php:10
+#: wordpress-themes/themeforest/float/searchform.php:11
+#: wordpress-themes/themeforest/float/searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/sidebar.php:16
+msgid "Proudly powered by WordPress"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/single.php:68
+msgid "Previous"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/single.php:69
+msgid "Next"
+msgstr ""
+
+#: wordpress-themes/themeforest/float/template-parts/template-article.php:38
+msgid "Continue reading"
+msgstr ""

@@ -1,0 +1,30 @@
+.wp-block {
+	max-width: 530px;
+}
+
+.wp-block[data-align="wide"] {
+	max-width: 590px;
+}
+
+.wp-block[data-align="full"] {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	max-width: none;
+	max-width: 650px;
+}
+
+.wp-block-quote {
+	border-left: 0.25rem solid #E5E4DE;
+	color: #666;
+	font-size: 1.25rem;
+}
+
+.ingress {
+	font-size: 1.125rem;
+	color: #666;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
