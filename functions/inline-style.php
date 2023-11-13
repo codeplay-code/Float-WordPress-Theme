@@ -133,7 +133,7 @@ function float_get_inline_style() {
 	a, aside a:hover, .main h1 a:hover {color:<?php echo esc_attr( $link_color ); ?>;}
 	.meta-comments, .float-related-posts .float-widget-latest-comments {background-color:<?php echo esc_attr( $color_comments_bubble ); ?>;}
 	.meta-comments:after, .float-related-posts .float-widget-latest-comments:after {border-top-color:<?php echo esc_attr( $color_comments_bubble ); ?>;border-right-color:<?php echo esc_attr( $color_comments_bubble ); ?>;}
-	.meta li:after, .float-nav-ul > li:after, .meta-separator {color:<?php echo esc_attr( $color_separator ); ?>;}
+	.meta li:after, .float-nav-ul > li:after, .comment-time:after {color:<?php echo esc_attr( $color_separator ); ?>;}
 	.meta-tags li a {background-color:<?php echo esc_attr( $color_tags ); ?>;}
 	<?php if ( 'sidebar-left' === $sidebar_position ) : ?>
 		@media screen and (min-width:800px) { .main {float:right;} aside {float:left;} }

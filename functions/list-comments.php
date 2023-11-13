@@ -31,14 +31,19 @@ if ( ! function_exists( 'float_list_comments' ) ) {
 				<?php endif; ?>
 				<br>
 				<?php // Translators: %1$s: comment date, %2$s: comment time. ?>
-				<a href="<?php echo esc_url( get_comment_link( $comment->comment_ID ) ); ?>" class="comment-time"><?php printf( esc_html__( '%1$s at %2$s', 'float' ), esc_html( get_comment_date() ), esc_html( get_comment_time() ) ); ?></a> <span class="meta-separator">//</span>
+				<a href="<?php echo esc_url( get_comment_link( $comment->comment_ID ) ); ?>" class="comment-time"><?php printf( esc_html__( '%1$s at %2$s', 'float' ), esc_html( get_comment_date() ), esc_html( get_comment_time() ) ); ?></a>
 
 				<?php
-				comment_reply_link( array_merge( $args, array(
-					'depth'      => $depth,
-					'max_depth'  => $args['max_depth'],
-					'reply_text' => __( 'Reply', 'float' ),
-				) ) );
+				comment_reply_link(
+					array_merge(
+						$args,
+						array(
+							'depth'      => $depth,
+							'max_depth'  => $args['max_depth'],
+							'reply_text' => __( 'Reply', 'float' ),
+						)
+					)
+				);
 				?>
 			</div>
 

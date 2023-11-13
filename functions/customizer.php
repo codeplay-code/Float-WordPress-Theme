@@ -279,7 +279,7 @@ function float_customize_register( $wp_customize ) {
 		'slug'      => 'color_separator',
 		'default'   => '#da340a',
 		'label'     => __( 'Menu and meta separator color', 'float' ),
-		'transport' => 'refresh',
+		'transport' => 'postMessage',
 	);
 
 	// Add settings and controls for each color.

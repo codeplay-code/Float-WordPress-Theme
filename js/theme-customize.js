@@ -24,7 +24,7 @@
 
 	wp.customize( 'color_separator', function( value ) {
 		value.bind( function( newval ) {
-			$('.meta li:after, .float-nav-ul > li > a:after, .meta-separator').css('color', newval);
+			$( "<style>.meta li:after, .float-nav-ul > li:after, .comment-time:after {color:" + newval + ";}</style>" ).appendTo('head');
 		} );
 	} );
 

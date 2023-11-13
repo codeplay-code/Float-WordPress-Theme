@@ -1,3 +1,11 @@
+2.4.0 (November 13th, 2023)
+
+- Float Plugin was updated to 1.4.0. Please update the plugin.
+- Envato Market Plugin was updated to 2.0.10. Please update the plugin.
+- Archive pages now show the term description also on the alternate layout option.
+- Replaced Twitter icon with X icon.
+- Minor code fixes.
+
 2.3.0 (August 8th, 2022)
 
 - Float Plugin was updated to 1.3.0. Please update the plugin.

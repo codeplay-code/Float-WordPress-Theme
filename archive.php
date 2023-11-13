@@ -12,11 +12,11 @@ get_header(); ?>
 		<div class="hentry">
 			<div class="hentry-header">
 				<?php the_archive_title( '<h1>', '</h1>' ); ?>
-			</div><!-- /hentry-header -->
 
-			<?php if ( ( is_category() || is_tag() ) && ! is_paged() && ! empty( term_description() ) ) : ?>
-				<div class="ingress"><?php echo term_description(); ?></div>
-			<?php endif; ?>
+				<?php if ( ( is_category() || is_tag() ) && ! is_paged() && ! empty( term_description() ) ) : ?>
+					<div class="ingress float-archive-term-description"><?php echo term_description(); ?></div>
+				<?php endif; ?>
+			</div><!-- /hentry-header -->
 
 			<?php while ( have_posts() ) : ?>
 				<?php the_post(); ?>
@@ -26,6 +26,18 @@ get_header(); ?>
 	</div><!-- /hentry-outer -->
 
 <?php else : ?>
+	<div class="hentry-outer">
+		<div class="hentry hentry__archive">
+			<div class="hentry-header hentry-header__archive">
+				<?php the_archive_title( '<h1>', '</h1>' ); ?>
+
+				<?php if ( ( is_category() || is_tag() ) && ! is_paged() && ! empty( term_description() ) ) : ?>
+					<div class="ingress float-archive-term-description"><?php echo term_description(); ?></div>
+				<?php endif; ?>
+			</div><!-- /hentry-header -->
+		</div><!-- /hentry -->
+	</div><!-- /hentry-outer -->
+
 	<?php while ( have_posts() ) : ?>
 		<?php the_post(); ?>
 		<?php get_template_part( 'template-parts/template', 'article' ); ?>
