@@ -90,7 +90,7 @@ if ( ! function_exists( 'float_related_posts' ) ) {
 			'update_post_term_cache' => false,
 		);
 
-		$my_query = new wp_query( $args );
+		$my_query = new WP_Query( $args );
 
 		$title = get_theme_mod( 'related_posts_title' );
 		?>

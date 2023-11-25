@@ -8,7 +8,7 @@
 /**
  * Defines theme version.
  */
-define( 'FLOAT_THEME_VERSION', '2.4.0' );
+define( 'FLOAT_THEME_VERSION', '2.5.0' );
 
 if ( ! function_exists( 'float_get_option' ) ) {
 	/**

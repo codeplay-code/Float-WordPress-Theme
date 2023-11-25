@@ -13,5 +13,9 @@
 		<?php dynamic_sidebar( 'primary-widget-area' ); ?>
 	<?php endif; ?>
 
-	<p class="copyright"><a href="https://themeforest.net/item/float-responsive-blog-theme/2635174?ref=mytheme">Float WordPress Theme</a><br> <a href="https://wordpress.org/"><?php esc_html_e( 'Proudly powered by WordPress', 'float' ); ?></a><br> Copyright &copy; <?php echo absint( date( 'Y' ) ); ?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo( 'name' ); ?></a></p>
+	<?php
+	$copyright_text = '<a href="https://themeforest.net/item/float-responsive-blog-theme/2635174?ref=mytheme">Float WordPress Theme</a><br> <a href="https://wordpress.org/">' . esc_html__( 'Proudly powered by WordPress', 'float' ) . '</a><br> Copyright &copy; ' . absint( date( 'Y' ) ) . ' <a href="' . esc_url( home_url( '/' ) ) . ' ">' . get_bloginfo( 'name' ) . '</a>';
+	?>
+
+	<p class="copyright"><?php echo wp_kses_post( apply_filters( 'float_filter_copyright_text', $copyright_text ) ); ?></p>
 </aside>

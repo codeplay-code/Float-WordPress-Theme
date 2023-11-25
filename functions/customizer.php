@@ -165,6 +165,21 @@ function float_customize_register( $wp_customize ) {
 		'type'        => 'checkbox',
 	) );
 
+	$wp_customize->add_setting( 'excerpt_on_articles', array(
+		'default'           => false,
+		'type'              => 'theme_mod',
+		'transport'         => 'refresh',
+		'sanitize_callback' => 'float_sanitize_checkbox',
+	) );
+
+	$wp_customize->add_control( 'excerpt_on_articles', array(
+		'label'       => __( 'Post excerpt on listings', 'float' ),
+		'description' => __( 'Display the post excerpt on homepage and archive post listings.', 'float' ),
+		'section'     => 'float',
+		'settings'    => 'excerpt_on_articles',
+		'type'        => 'checkbox',
+	) );
+
 	$wp_customize->add_setting( 'tags_on_homepage', array(
 		'default'           => true,
 		'type'              => 'theme_mod',

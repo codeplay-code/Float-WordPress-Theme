@@ -1,3 +1,11 @@
+2.5.0 (November 21st, 2023)
+
+- Float Plugin was updated to 1.5.0. Please update the plugin.
+- Added Customizer option to show the post excerpt on homepage and archive post listings.
+- Added an icon used for a custom link in social links menu.
+- Added filter to allow editing the footer copyright text.
+- Blocks in widgets are now disabled.
+
 2.4.0 (November 13th, 2023)
 
 - Float Plugin was updated to 1.4.0. Please update the plugin.

@@ -34,7 +34,11 @@
 			</div>
 		<?php endif; ?>
 
-		<?php the_content( __( 'Continue reading', 'float' ) . ' &rarr;' ); ?>
+		<?php if ( ! get_theme_mod( 'excerpt_on_articles', false ) ) : ?>
+			<?php the_content( __( 'Continue reading', 'float' ) . ' &rarr;' ); ?>
+		<?php else : ?>
+			<?php the_excerpt(); ?>
+		<?php endif; ?>
 
 		<?php if ( get_theme_mod( 'tags_on_homepage', true ) ) : ?>
 			<?php the_tags( '<ul class="meta-tags"><li>', '</li><li>', '</li></ul>' ); ?>

@@ -31,6 +31,9 @@ function float_after_setup_theme() {
 	add_theme_support( 'editor-styles' );
 	add_editor_style( 'style-editor.css' );
 
+	// Disable block widgets.
+	remove_theme_support( 'widgets-block-editor' );
+
 	$defaults = array(
 		'default-color'          => '#171C20',
 		'default-image'          => get_template_directory_uri() . '/images/background-1.jpg',

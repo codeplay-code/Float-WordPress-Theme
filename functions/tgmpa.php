@@ -20,9 +20,9 @@ if ( ! function_exists( 'float_tgmpa_register' ) ) {
 			array(
 				'name'     => 'Float Plugin',
 				'slug'     => 'float-plugin',
-				'source'   => get_template_directory() . '/lib/float-plugin-1.4.0.zip',
+				'source'   => get_template_directory() . '/lib/float-plugin-1.5.0.zip',
 				'required' => true,
-				'version'  => '1.4.0',
+				'version'  => '1.5.0',
 			),
 			array(
 				'name'     => 'Envato Market',
